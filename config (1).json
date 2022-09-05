@@ -1,8 +1,8 @@
 {
-    "token": "MTAxMDc3NTgwMzIyODg2NDU5Mg.GnpHjP.XE2cnp5BgzlJFu-nePEZrXR9rV8ObvydzWrYX4",
+    "token": "token",
     "color": "#5a0799",
     "prefix": "+",
-    "name": "[+]ShopGestion",
+    "name": "bot-name",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
